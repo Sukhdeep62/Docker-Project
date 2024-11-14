@@ -205,12 +205,12 @@
 		<repository>
 			<id>Spring-petclinic-1</id>
 			<name>Spring-petclinic-1</name>
-			<url>http://http://13.201.67.58:8081/repository/Spring-petclinic-1/</url>
+			<url>http://13.201.67.58:8081/repository/spring_release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>spring-petclinic-snapshot-2</id>
 			<name>spring-petclinic-snapshot-2</name>
-			<url>http://http://13.201.67.58:8081/repository/spring-petclinic-snapshot-2/</url>
+			<url>http://13.201.67.58:8081/repository/spring_snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
